@@ -4,7 +4,7 @@
 
 body {
      font-family: Georgia;
-     background-image: url(bg.png);
+     background-image: url(img/bg.png);
      background-size: 256px 256px;
 }
 
@@ -18,35 +18,35 @@ body {
 }
 
 .cactus.junk {
-    background-image: url(cactus.png);
+    background-image: url(img/cactus.png);
     background-position: top left;
     background-size: 270px;
     z-index: -2;
 }
 
 .postit.junk {
-     background-image: url(sticky.png);
+     background-image: url(img/sticky.png);
      background-position: center left;
      background-size: 144px;
      z-index: -4;
 }
 
 .papers.junk {
-     background-image:url(papers.png);
+     background-image:url(img/papers.png);
      background-position: bottom left;
      background-size: 198px;
      z-index: -3;
 }
 
 .camera.junk {
-     background-image:url(lomo.png);
+     background-image:url(img/lomo.png);
      background-position: top right;
      background-size: 230px;
      z-index: -2;
 }
 
 .cawfee.junk {
-     background-image:url(cawfee.png);
+     background-image:url(img/cawfee.png);
      background-position: center right;
      background-size: 121px;
      z-index: -2;
@@ -54,7 +54,7 @@ body {
 
 .penpad.junk {
      z-index: -2;
-     background-image:url(notepads.png);
+     background-image:url(img/notepads.png);
      background-position: bottom right;
      background-size: 206px;
 }
