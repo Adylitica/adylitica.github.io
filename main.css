@@ -3,9 +3,10 @@
 }
 
 body {
-     font-family: Georgia;
+     background-color: rgb(173, 153, 128);
      background-image: url(img/bg.png);
      background-size: 256px 256px;
+     font-family: Georgia;
 }
 
 .junk {
